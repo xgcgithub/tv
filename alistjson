@@ -1,0 +1,34 @@
+
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://192.168.31.31:5678"
+    },
+    {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+     },
+    {
+      "name": "红心",
+      "server": "https://pan.mediy.cn"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    }
+  ]
+}
