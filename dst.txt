@@ -1153,24 +1153,24 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 
 许冠英	,http://diyp.zxxoo.work/huya/11601972
 成龙	,http://zby.xjqxz.top/cldy/live.m3u8
-王晶	,http://diyp.zxxoo.work/huya/11602058
-林正英	,http://diyp.zxxoo.work/douyu/7356023
-刘德华	,http://diyp.zxxoo.work/huya/11342424
-电影周星星	,http://diyp.zxxoo.work/huya/11336587
-电影成龙	,http://diyp.zxxoo.work/huya/11342386
-电影星爷	,http://diyp.zxxoo.work/huya/11342412
-电影李连杰	,http://diyp.zxxoo.work/huya/11342390
-电影沈腾	,http://diyp.zxxoo.work/huya/11601968
-电影洪金宝	,http://diyp.zxxoo.work/huya/11279251
-电影英叔	,http://diyp.zxxoo.work/huya/11342421
-电影许氏三杰	,http://diyp.zxxoo.work/huya/11602033
-电影梁家辉	,http://diyp.zxxoo.work/huya/11342429
-贝爷影厅原	,http://diyp.zxxoo.work/douyu/252802
+王晶	, http://diyp.zxxoo.work/huya/11602058
+林正英	, http://diyp.zxxoo.work/douyu/7356023
+刘德华	, http://diyp.zxxoo.work/huya/11342424
+周星星	, http://diyp.zxxoo.work/huya/11336587
+成龙	, http://diyp.zxxoo.work/huya/11342386
+星爷	, http://diyp.zxxoo.work/huya/11342412
+李连杰	, http://diyp.zxxoo.work/huya/11342390
+沈腾	, http://diyp.zxxoo.work/huya/11601968
+洪金宝	, http://diyp.zxxoo.work/huya/11279251
+英叔	, http://diyp.zxxoo.work/huya/11342421
+许氏三杰	, http://diyp.zxxoo.work/huya/11602033
+梁家辉	, http://diyp.zxxoo.work/huya/11342429
+贝爷	, http://diyp.zxxoo.work/douyu/252802
 
 
 
 
-国语电影原	,http://diyp.zxxoo.work/douyu/2436390
+国语原	, http://diyp.zxxoo.work/douyu/2436390
 AMC电影	,http://61.221.215.25:8800/hls/43/index.m3u8
 电影喜乐影院	,http://diyp.zxxoo.work/huya/21059580
 电影喜剧专场	,http://diyp.zxxoo.work/huya/11602044
